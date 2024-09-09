@@ -1,0 +1,21 @@
+.title{
+    text-align: center;
+}
+
+.post{
+    background-color:rgb(0, 255, 55);
+    width:50%;
+    margin: auto;
+}
+.post-header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+img{
+    width:100%;
+}
+p{
+    padding:15px;
+}
